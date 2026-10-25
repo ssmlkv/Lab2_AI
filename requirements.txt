@@ -1,0 +1,11 @@
+langgraph==1.2.16
+langgraph-checkpoint-sqlite==3.1.2
+langchain-openai==1.7.2
+langchain-core==1.6.13
+pydantic==2.14.1
+mcp==1.30.0
+mcp-server-sqlite==2025.4.25
+python-dotenv==1.2.4
+python-telegram-bot==22.8
+filelock==3.32.7
+tzdata==2026.5
